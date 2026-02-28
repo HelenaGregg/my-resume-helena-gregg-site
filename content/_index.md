@@ -50,6 +50,7 @@ Always happy to connect with fellow Owls, Chicago-based engineers, or anyone wit
 
 ### **University of Michigan College of Engineering**
 *Bachelor of Science in Engineering (B.S.E.), Computer Science* **2017 – 2020**
+* **Honors:** Summa Cum Laude (GPA: 3.9/4.0)
 
 ---
 
