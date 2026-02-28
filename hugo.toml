@@ -1,5 +1,5 @@
 # --- ROOT SETTINGS ---
-baseURL = "https://HelenaGregg.github.io/"
+baseURL = "https://www.helenagregg.com/"
 languageCode = "en-us"
 title = "Helena Gregg"   # This shows in the browser tab
 theme = "researcher"
