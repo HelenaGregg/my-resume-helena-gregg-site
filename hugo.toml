@@ -1,0 +1,22 @@
+# --- ROOT SETTINGS ---
+baseURL = "https://HelenaGregg.github.io/"
+languageCode = "en-us"
+title = "Helena Gregg"   # This shows in the browser tab
+theme = "researcher"
+
+# --- THEME PARAMETERS ---
+[params]
+    # The Researcher theme uses 'name' for the big header text.
+    # If you see your name twice, try commenting out this next line 
+    # by adding a # in front of it to see if it fixes the double-name.
+    name = "Helena Gregg" 
+    
+    description = "Software Engineer | MBA Candidate"
+    
+    # Social Links (Icons will appear in the footer)
+    [[params.social]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/helena-gregg/"
+    [[params.social]]
+        name = "github"
+        url = "https://github.com/HelenaGregg"
