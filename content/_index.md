@@ -8,7 +8,7 @@ keywords: ["Helena Gregg", "Software Engineer", "Two Sigma", "Microsoft", "Rice 
 
 [LinkedIn Profile](https://www.linkedin.com/in/helena-gregg/) | [GitHub](https://github.com/HelenaGregg)
 
-I currently spend my days on the **Treasury Engineering** team at Two Sigma, while spending my **evenings and weekends** completing my MBA at Rice University. 📊 🦉
+I currently spend my days on the **Treasury Engineering** team at Two Sigma, while spending my **evenings and weekends** completing my MBA in Finance at Rice University. 📊 🦉
 
 * 📍 **Next Chapter:** Trading the Houston heat for the Lake Michigan breeze—moving to **Chicago this May** following the conclusion of my grad program! 🏙️
 * 🌱 **In the Garden:** Currently obsessed with heirloom varieties and figuring out the "Zone 5b" Chicago growing season. 🍅
