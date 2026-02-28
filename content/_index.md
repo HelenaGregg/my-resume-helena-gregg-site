@@ -8,7 +8,14 @@ keywords: ["Helena Gregg", "Software Engineer", "Two Sigma", "Microsoft", "Rice 
 
 [LinkedIn Profile](https://www.linkedin.com/in/helena-gregg/) | [GitHub](https://github.com/HelenaGregg)
 
-Highly technical software engineer with a background in low-level systems (C++ Compiler) and financial engineering (Treasury/Trading). Currently bridging the gap between deep technical implementation and financial strategy.
+I currently spend my days on the **Treasury Engineering** team at Two Sigma, while spending my **evenings and weekends** completing my MBA at Rice University. 📊 🦉
+
+* 📍 **Next Chapter:** Trading the Houston heat for the Lake Michigan breeze—moving to **Chicago this May** following the conclusion of my grad program! 🏙️
+* 🌱 **In the Garden:** Currently obsessed with heirloom varieties and figuring out the "Zone 5b" Chicago growing season. 🍅
+* 🏃 **On the Pavement:** Marathon runner and future Lakefront Trail enthusiast. 👟
+* 🏔️ **In the Wild:** Usually hiking or finding any excuse to get away from a screen.
+
+Always happy to connect with fellow Owls, Chicago-based engineers, or anyone with tips on keeping tomatoes alive in the Midwest! ❄️
 
 ---
 
