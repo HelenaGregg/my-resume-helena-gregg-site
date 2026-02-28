@@ -1,5 +1,7 @@
 ---
-title: "Helena Gregg"
+title: "Helena Gregg | Software Engineer & MBA"
+description: "Professional portfolio of Helena Gregg, Software Engineer at Two Sigma/Microsoft and MBA candidate at Rice University specializing in Treasury Engineering."
+keywords: ["Helena Gregg", "Software Engineer", "Two Sigma", "Microsoft", "Rice MBA", "C++", "Treasury Engineering"]
 ---
 
 **Software Engineer | MBA Candidate at Rice University**
