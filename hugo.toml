@@ -13,6 +13,8 @@ theme = "researcher"
     
     description = "Software Engineer | MBA Candidate"
     
+    favicon = "/favicon.png"
+    
     # Social Links (Icons will appear in the footer)
     [[params.social]]
         name = "linkedin"
