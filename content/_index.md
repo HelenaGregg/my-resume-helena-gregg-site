@@ -8,18 +8,18 @@ keywords: ["Helena Gregg", "Software Engineer", "Two Sigma", "Microsoft", "Rice 
 
 [LinkedIn Profile](https://www.linkedin.com/in/helena-gregg/) | [GitHub](https://github.com/HelenaGregg)
 
-I currently spend my days on the **Treasury Engineering** team at Two Sigma, while spending my **evenings and weekends** completing my MBA in Finance at Rice University. 📊 🦉
+I currently spend my days on the **Treasury Engineering** team at Two Sigma, while spending my **evenings and weekends** completing my MBA in Finance at Rice University.
 
-* 📍 **Next Chapter:** Trading the Houston heat for the Lake Michigan breeze—moving to **Chicago this May** following the conclusion of my grad program! 🏙️
-* 🌱 **In the Garden:** Currently obsessed with heirloom varieties and figuring out the "Zone 5b" Chicago growing season. 🍅
-* 🏃 **On the Pavement:** Marathon runner and future Lakefront Trail enthusiast. 👟
-* 🏔️ **In the Wild:** Usually hiking or finding any excuse to get away from a screen.
+* **Next Chapter:** Trading the Houston heat for the Lake Michigan breeze—moving to **Chicago this May** following the conclusion of my grad program!
+* **In the Garden:** Currently obsessed with heirloom varieties and figuring out the "Zone 5b" Chicago growing season.
+* **On the Pavement:** Marathon runner and future Lakefront Trail enthusiast.
+* **In the Wild:** Usually hiking or finding any excuse to get away from a screen.
 
-Always happy to connect with fellow Owls, Chicago-based engineers, or anyone with tips on keeping tomatoes alive in the Midwest! ❄️
+Always happy to connect with fellow Owls, Chicago-based engineers, or anyone with tips on keeping tomatoes alive in the Midwest!
 
 ---
 
-## 🚀 Experience
+## Experience
 
 ### **Two Sigma** | Software Engineer (Treasury Engineering)
 *September 2021 – Present*
@@ -43,7 +43,7 @@ Always happy to connect with fellow Owls, Chicago-based engineers, or anyone wit
 
 ---
 
-## 🎓 Education
+## Education
 
 ### **Rice Business - Jones Graduate School of Business**
 *Master of Business Administration (MBA), Finance* **2024 – 2026 (Expected)**
@@ -54,7 +54,7 @@ Always happy to connect with fellow Owls, Chicago-based engineers, or anyone wit
 
 ---
 
-## 🛠 Skills
+## Skills
 
 - **Languages:** C++, C, Python, Java, SQL, PowerShell.
 - **Systems:** Compiler Design, Treasury Management Systems, Computer Architecture.
